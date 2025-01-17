@@ -59,9 +59,9 @@ Before you begin, ensure you have met the following requirements:
 - `requirements.txt`: List of Python dependencies
 - `sentiment_analysis_results.csv`: Output file generated after processing (not tracked by git)
 
-## Contributing
+## LIVE APPLICATION
 
-Contributions to this project are welcome. Please fork the repository and create a pull request with your changes.
+LINK-https://feelings-analysis-with-gemini-whmtubmtrzjljq3ygpbhax.streamlit.app
 
 ## License
 
